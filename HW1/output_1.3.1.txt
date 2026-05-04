@@ -1,0 +1,46 @@
+Пропущено рядок: Triangle   14   16    0
+Причина: Invalid triangle
+Пропущено рядок: Triangle   25   11    3
+Причина: Invalid triangle
+Пропущено рядок: Triangle    8    9   18
+Причина: Invalid triangle
+Пропущено рядок: Triangle    1   13   11
+Причина: Invalid triangle
+Пропущено рядок: Triangle    9   12   22
+Причина: Invalid triangle
+Пропущено рядок: Triangle    0    1   10
+Причина: Invalid triangle
+Пропущено рядок: Triangle    3   20    6
+Причина: Invalid triangle
+Пропущено рядок: Trapeze    2   20   12    2
+Причина: Invalid trapezoid
+Пропущено рядок: Triangle    6   21    9
+Причина: Invalid triangle
+Пропущено рядок: Triangle    0   20   18
+Причина: Invalid triangle
+Пропущено рядок: Triangle   13    5   25
+Причина: Invalid triangle
+Пропущено рядок: Triangle   20    6    2
+Причина: Invalid triangle
+Пропущено рядок: Triangle    7    6   13
+Причина: Invalid triangle
+Пропущено рядок: Triangle    7   21   13
+Причина: Invalid triangle
+Пропущено рядок: Triangle   19    6    2
+Причина: Invalid triangle
+Пропущено рядок: Triangle   22    7   13
+Причина: Invalid triangle
+Пропущено рядок: Triangle   21    1    6
+Причина: Invalid triangle
+Пропущено рядок: Triangle    6   25    1
+Причина: Invalid triangle
+Пропущено рядок: Triangle    3   14    0
+Причина: Invalid triangle
+Пропущено рядок: Triangle   15    0   15
+Причина: Invalid triangle
+Пропущено рядок: Trapeze   10    0   20    5
+Причина: Invalid trapezoid
+Пропущено рядок: Triangle    0   11   25
+Причина: Invalid triangle
+Max area: 1385.4423602330987
+Max perimeter: 131.94689145077132
