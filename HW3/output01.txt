@@ -1,0 +1,7 @@
+Пропущено рядок: Triangle    7   25    5
+Причина: Invalid triangle: 7.0, 25.0, 5.0
+Пропущено рядок: Triangle   19    1   13
+Причина: Invalid triangle: 19.0, 1.0, 13.0
+Пропущено рядок: Triangle    1    2   25
+Причина: Invalid triangle: 1.0, 2.0, 25.0
+(<MainClass.Ball object at 0x7fd42a2ebbd0>, 65449.84694978735)
